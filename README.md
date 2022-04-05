@@ -1,5 +1,5 @@
 # Analizar-y-documenta-Scripts
-#Script 1
+# Script 1
 
     $number = 1 //Crea una variable number y le asigna un valor de 1
 
@@ -17,3 +17,4 @@
 
     Write-Host "The number is: " $number //Se imprime por ultima vez la variable
    
+# Script 2
